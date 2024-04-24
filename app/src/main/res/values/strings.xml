@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">EjemploAplicacion</string>
+    <string name="button_text">Tirar dado</string>
+    <string name="text_initial">Para empezar, Tire dado</string>
 </resources>
