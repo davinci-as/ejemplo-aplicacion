@@ -1,7 +1,5 @@
 <resources>
     <string name="app_name">EjemploAplicacion</string>
-    <string name="button_text">Tirar dado</string>
-    <string name="text_initial">Para empezar, Tire dado</string>
+    <string name="text_initial">Para terminar, no Tire dado</string>
     <string name="text_win">Ganaste</string>
-    <string name="text_loose">Perdiste</string>
 </resources>
