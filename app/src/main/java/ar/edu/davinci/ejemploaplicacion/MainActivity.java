@@ -17,7 +17,9 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void tirarDato(View view) {
-        Log.i("tirar-datos", "Ganaste");
+        double aleatorio = Math.random() * 6 + 1;
+        int numeroDato = (int) aleatorio;
+        Log.i("tirar-datos", "Ganaste" + numeroDato);
         LinearLayout resultados = findViewById(R.id.resultados);
         TextView resultado = new TextView(this);
         resultado.setText(R.string.text_win);
