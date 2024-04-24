@@ -1,7 +1,7 @@
 <resources>
-    <string name="app_name">Prueba</string>
+    <string name="app_name">EjemploAplicacion</string>
     <string name="button_text">Prueba</string>
-    <string name="text_initial">Prueba</string>
-    <string name="text_win">Prueba</string>
+    <string name="text_initial">Para terminar, no Tire dado</string>
+    <string name="text_win">Ganaste</string>
     <string name="text_loose">Prueba</string>
 </resources>
